@@ -27,10 +27,6 @@ body {
     display: none;
   }
 
-    .learn {
-      display: block;
-    }
-
     .learn .image {
       width: 480px;
     }
